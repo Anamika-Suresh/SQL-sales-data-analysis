@@ -1,0 +1,130 @@
+{
+  "years_revenue": [
+    {
+      "year": 2017,
+      "revenue": 92882653.0
+    },
+    {
+      "year": 2018,
+      "revenue": 413687163.0
+    },
+    {
+      "year": 2019,
+      "revenue": 336019102.0
+    },
+    {
+      "year": 2020,
+      "revenue": 142224545.0
+    }
+  ],
+  "markets_revenue": [
+    {
+      "market": "Delhi NCR",
+      "revenue": 519514271.0
+    },
+    {
+      "market": "Mumbai",
+      "revenue": 150084801.0
+    },
+    {
+      "market": "Ahmedabad",
+      "revenue": 132307441.0
+    },
+    {
+      "market": "Bhopal",
+      "revenue": 58609861.0
+    },
+    {
+      "market": "Nagpur",
+      "revenue": 55026321.0
+    },
+    {
+      "market": "Kochi",
+      "revenue": 18813466.0
+    },
+    {
+      "market": "Chennai",
+      "revenue": 18042702.0
+    },
+    {
+      "market": "Kanpur",
+      "revenue": 13582609.0
+    },
+    {
+      "market": "Hyderabad",
+      "revenue": 7436823.0
+    },
+    {
+      "market": "Patna",
+      "revenue": 4428393.0
+    }
+  ],
+  "customers_revenue": [
+    {
+      "customer": "Electricalsara Stores",
+      "revenue": 413333588.0
+    },
+    {
+      "customer": "Electricalslytical",
+      "revenue": 49644189.0
+    },
+    {
+      "customer": "Excel Stores",
+      "revenue": 49115620.0
+    },
+    {
+      "customer": "Premium Stores",
+      "revenue": 44906666.0
+    },
+    {
+      "customer": "Nixon",
+      "revenue": 43893083.0
+    },
+    {
+      "customer": "Info Stores",
+      "revenue": 35100033.0
+    },
+    {
+      "customer": "Control",
+      "revenue": 31771997.0
+    },
+    {
+      "customer": "Surge Stores",
+      "revenue": 28648916.0
+    },
+    {
+      "customer": "Acclaimed Stores",
+      "revenue": 21196727.0
+    },
+    {
+      "customer": "Forward Stores",
+      "revenue": 21026079.0
+    }
+  ],
+  "monthly_revenue_2020": [
+    {
+      "month": "January",
+      "revenue": 25656567.0
+    },
+    {
+      "month": "February",
+      "revenue": 26924799.0
+    },
+    {
+      "month": "March",
+      "revenue": 26383977.0
+    },
+    {
+      "month": "April",
+      "revenue": 25260708.0
+    },
+    {
+      "month": "May",
+      "revenue": 23288060.0
+    },
+    {
+      "month": "June",
+      "revenue": 14710434.0
+    }
+  ]
+}
