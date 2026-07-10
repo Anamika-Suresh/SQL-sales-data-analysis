@@ -6,7 +6,7 @@ Additionally, this repository contains a modern **Interactive Dashboard Preview*
 
 ---
 
-## 📊 SQL Data Analysis Queries & Insights
+## SQL Data Analysis Queries & Insights
 
 The data analysis was performed on the database dump containing transactional records. Below are the key queries and their findings:
 
@@ -69,7 +69,7 @@ WHERE date.year=2020 and transactions.market_code="Mark001";
 
 ---
 
-## 🖥️ Local Interactive Dashboard Preview
+##  Local Interactive Dashboard Preview
 We developed an interactive web preview of the sales dashboard using modern glassmorphic styling and Chart.js.
 
 ### How to Run Locally:
@@ -89,7 +89,7 @@ We developed an interactive web preview of the sales dashboard using modern glas
 
 ---
 
-## 📈 Power BI Dashboards
+## Power BI Dashboards
 The Power BI Desktop file [Sales-Data-Analysis.pbix](Sales-Data-Analysis.pbix) has been designed with three primary pages:
 1. **Key Insights:** High-level executive overview of sales numbers, customer contribution, and revenue trend.
 2. **Profit Analysis:** Deep dive into product margins, cost structures, and market profitability.
@@ -97,7 +97,7 @@ The Power BI Desktop file [Sales-Data-Analysis.pbix](Sales-Data-Analysis.pbix) h
 
 ---
 
-## 🗃️ Database Structure
+## Database Structure
 The project database layout comprises the following tables:
 * `customers`: Active clients, categorized by retail type (Brick & Mortar / E-Commerce).
 * `markets`: Operational distribution hubs across different regions/zones (North, Central, South).
